@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- _________________________ Application Settings _________________________ -->
+
+	<app title="Sonic the Hedgehog" file="Sonic1" packageName="com.sega.sonic1" package="com.sega.sonic1" main="Main" version="1.0.0" company="Sega" />
+
+	<!-- _______________________________ Libraries ______________________________ -->
+
+	<haxelib name="flixel"/>
+	<haxelib name="flixel-addons"/>
+	<haxelib name="flxanimate"/>
